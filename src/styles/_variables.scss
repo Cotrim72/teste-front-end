@@ -1,0 +1,13 @@
+$blue: #2f3fb8;
+$blue-dark: #1b1a8c;
+$yellow: #f8c90f;
+$text: #333;
+$muted: #8a8a8a;
+$bg-soft: #f2f2f2;
+$font-main: 'Poppins', sans-serif;
+$font-alt: 'Work Sans', sans-serif;
+$container: 1280px;
+$bp-md: 900px;
+$font-title: 'Outfit', sans-serif;
+
+@mixin md { @media (max-width: $bp-md) { @content; } }
