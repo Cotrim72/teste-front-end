@@ -31,3 +31,4 @@ src/
 - Modal: fecha com X, clique fora ou `Esc`; trava o scroll do body; `role="dialog"` e `aria-modal`.
 - HTML semântico (`header`, `nav`, `main`, `section`, `article`, `footer`), `alt` nas imagens e meta description.
 - Preço "de" e parcelas dos cards são calculados a partir do preço (não existem no JSON).
+
